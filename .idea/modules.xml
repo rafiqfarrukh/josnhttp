@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/josnhttp.iml" filepath="$PROJECT_DIR$/.idea/modules/josnhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/josnhttp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/josnhttp_main.iml" group="josnhttp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/josnhttp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/josnhttp_test.iml" group="josnhttp" />
+    </modules>
+  </component>
+</project>
